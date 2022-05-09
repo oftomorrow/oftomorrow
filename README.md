@@ -3,6 +3,7 @@
 ## A software developer with passion for learning and challenging.
 
 - 🌱 I’m currently learning **CQRS pattern and RabbitMQ**
+- 🤖 I code Telegram bots for fun. My last bot is <a href="https://t.me/QuizPleaseRegBot">QuizPleaseRegBot</a>
 - ⚡ Fun fact: **I have 8 cats 🐱**
 
 ## I mostly work with following technologies:
