@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning **CQRS pattern and RabbitMQ**
 - 🤖 I code Telegram bots for fun. My last bot is <a href="https://t.me/QuizPleaseRegBot">QuizPleaseRegBot</a>
+- 📓 My Telegram blog in russian is <a href="https://t.me/oftomorrow_blog">here</a>
 - ⚡ Fun fact: **I have 8 cats 🐱**
 
 ## I mostly work with following technologies:
